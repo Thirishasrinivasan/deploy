@@ -1,0 +1,37 @@
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <h1>Favourites</h1><br>
+    <hr>
+    <ol type="1">
+        <li>Fav Food</li>
+        <ul type="disc">
+            <li>dosa</li>
+            <li>briyani</li>
+        </ul>
+        <li>Fav Game</li>
+        <ul type="circle">
+            <li>badminton</li>
+            <li></li>
+        </ul>
+        <li>Fav Movie</li>
+        <ul type="square">
+            <li>a</li>
+            <li>b</li>
+        </ul>
+        <li>Fav Chocolate</li>
+        <ul type="none">
+            <li>munch</li>
+            <li>ferrero</li>
+        </ul>
+    </ol>
+    <dl>
+        <dt>Coffee</dt>
+        <dd>Black hot drink</dd>
+        <dt>Milk</dt>
+        <dd>White cold drink</dd>
+    </dl>
+</body>
+</html>
